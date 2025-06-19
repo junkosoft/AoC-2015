@@ -1,10 +1,6 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#pragma once
 
-#ifndef days_h
-#define days_h
+#include <iostream>
 
 void day_one();
-
-#endif
+void day_two();

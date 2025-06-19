@@ -1,2 +1,2 @@
 main:
-	gcc main.c $(wildcard days/*.c) -o aoc.exe
+	g++ main.cpp $(wildcard days/*.cpp) -o aoc.exe
